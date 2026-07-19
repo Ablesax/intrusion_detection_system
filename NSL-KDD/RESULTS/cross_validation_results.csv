@@ -1,0 +1,4 @@
+Model,Mean_F1,Std_F1
+KNN,0.9862,0.001
+Decision Tree,0.9904,0.0005
+SVM,0.9616,0.0011
